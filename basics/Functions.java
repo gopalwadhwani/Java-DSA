@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Functions {
     // Function 1
     public static void printMyName(String name) {
-        System.out.println("name is" + name);
+        System.out.println("name is:" + name);
     }
 
     // funtion 2
